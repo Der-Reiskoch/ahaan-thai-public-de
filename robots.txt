@@ -7,7 +7,6 @@ Disallow: /suchen/
 Disallow: /suchen/zufall/
 Disallow: /bio-link/
 Disallow: /nicht-verbunden/
-Disallow: /api/thai-cook-book-info.json
 Disallow: /api/thai-cook-book-library.json
 Disallow: /api/thai-food-dictionary.json
 Disallow: /api/thai-food-encyclopedia.json
