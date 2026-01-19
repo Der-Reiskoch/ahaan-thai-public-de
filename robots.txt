@@ -1,5 +1,6 @@
 User-agent: *
 
+Disallow: /system/
 Disallow: /api/
 Disallow: /info/impressum/
 Disallow: /info/datenschutz/
@@ -10,7 +11,6 @@ Disallow: /nicht-verbunden/
 Disallow: /api/thai-cook-book-library.json
 Disallow: /api/thai-food-dictionary.json
 Disallow: /api/thai-food-encyclopedia.json
-Disallow: /system/
 Disallow: /link/
 Disallow: /tags/
 Disallow: /index.xml
