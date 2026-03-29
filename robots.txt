@@ -14,5 +14,6 @@ Disallow: /api/thai-food-encyclopedia.json
 Disallow: /link/
 Disallow: /tags/
 Disallow: /index.xml
+Disallow: /api/
 
 Sitemap: https://www.ahaan-thai.de/sitemap.xml
