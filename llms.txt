@@ -1,0 +1,38 @@
+# Ahaan Thai
+
+> Ahaan Thai (อาหารไทย) ist das große, umfassende Lexikon für Thai Food von A bis Z.
+> Das interaktive Nachschlagewerk bietet eine alphabetische Übersicht bekannter und
+> unbekannter thailändischer Gerichte mit verlinkten Rezepten, Zutaten, Herkunft
+> und Zubereitungshinweisen. Die englische Version ist unter https://en.ahaan-thai.de/
+> verfügbar.
+
+## Lexikon (Thai Food A–Z)
+
+- [Lexikon – vollständige Übersicht](https://www.ahaan-thai.de/lexikon/a/): Einstieg in das alphabetische Thai-Food-Lexikon
+- [Lexikon P](https://www.ahaan-thai.de/lexikon/p/): Pad, Phat und viele weitere Gerichte
+- [Lexikon S](https://www.ahaan-thai.de/lexikon/s/)
+- [Lexikon T](https://www.ahaan-thai.de/lexikon/t/)
+- [Lexikon Y](https://www.ahaan-thai.de/lexikon/y/)
+
+## Regionen
+
+- [Regionen Übersicht](https://www.ahaan-thai.de/regions/): Gerichte sortiert nach den vier kulinarischen Regionen Thailands
+- [Nordthailand](https://www.ahaan-thai.de/regions/nordthailand/)
+- [Nordostthailand (Isaan)](https://www.ahaan-thai.de/regions/nordostthailand/)
+- [Zentralthailand](https://www.ahaan-thai.de/regions/zentralthailand/)
+- [Südthailand](https://www.ahaan-thai.de/regions/suedthailand/)
+
+## Thai Food Wörterbuch
+
+- [Wörterbuch – Erklärer](https://www.ahaan-thai.de/worterbuch/erklaeren/): Thai-Begriffe auf Deutsch erklärt
+- [Wörterbuch – Ersteller](https://www.ahaan-thai.de/worterbuch/erstellen/): Thai-Vokabular interaktiv erkunden
+
+## Kochbücher
+
+- [Thai Kochbücher](https://www.ahaan-thai.de/kochbucher/): Alle referenzierten Kochbücher mit Seitenangaben
+
+## Suche & Navigation
+
+- [Suche](https://www.ahaan-thai.de/suchen/)
+- [Stichwörter (Tags)](https://www.ahaan-thai.de/tags/)
+- [JSON API](https://www.ahaan-thai.de/api/): Maschinenlesbare Endpunkte für Lexikon- und Wörterbuchdaten
