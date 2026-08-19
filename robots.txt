@@ -1,7 +1,10 @@
 User-agent: *
 
+Disallow: /system/
 Disallow: /api/
+Disallow: /worterbuch/
 Disallow: /info/impressum/
+Disallow: /info/
 Disallow: /info/datenschutz/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
