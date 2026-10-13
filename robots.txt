@@ -1,7 +1,8 @@
 User-agent: *
 
-Disallow: /info/bildnachweis/
+Disallow: /info/digitaler-nachlass-von-andreas-ayasse/
 Disallow: /info/
+Disallow: /info/bildnachweis/
 Disallow: /api/
 Disallow: /worterbuch/
 Disallow: /info/impressum/
