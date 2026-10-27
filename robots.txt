@@ -1,6 +1,6 @@
 User-agent: *
 
-Disallow: /quellen/digitaler-nachlass-von-andreas-ayasse/
+Disallow: /quellen/pdf/digitaler-nachlass-von-andreas-ayasse/
 Disallow: /info/bildnachweis/
 Disallow: /info/
 Disallow: /api/
