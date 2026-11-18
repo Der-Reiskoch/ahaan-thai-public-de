@@ -10,6 +10,7 @@ Disallow: /info/datenschutz/$
 Disallow: /suchen/$
 Disallow: /suchen/zufall/$
 Disallow: /bio-link/$
+Disallow: /lexikon/$
 Disallow: /nicht-verbunden/$
 Disallow: /api/thai-cook-book-library.json$
 Disallow: /api/thai-food-dictionary.json$
