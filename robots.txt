@@ -18,5 +18,6 @@ Disallow: /api/thai-food-encyclopedia.json$
 Disallow: /tags/
 Disallow: /index.xml
 Disallow: /api/
+Disallow: /suchen/?
 
 Sitemap: https://www.ahaan-thai.de/sitemap.xml
